@@ -1,2 +1,0 @@
-# maligad
-html
